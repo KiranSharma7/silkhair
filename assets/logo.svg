@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 170 670 368" width="100%" height="100%">
+  <style>
+    .brand-main { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 160px; font-weight: 800; fill: #1a1a1a; letter-spacing: -2px; }
+    .brand-sub { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 34px; font-weight: 700; fill: #e5005a; letter-spacing: 28px; }
+  </style>
+
+
+  <g transform="translate(0, 20)">
+    <!-- Icon / Symbol -->
+    <g transform="translate(265, 140)">
+      <!-- Top Sweeping Hair & Profile Contour -->
+      <path d="M 0,95 
+               C 50,90 100,55 160,35 
+               C 210,18 260,15 310,40 
+               C 335,52 342,65 340,70 
+               C 338,72 332,68 322,65 
+               C 280,50 240,55 200,80 
+               C 170,100 130,110 80,105 
+               C 40,100 20,98 0,95 Z" 
+            fill="#e5005a"/>
+
+      <path d="M 88,122 
+               C 130,115 180,95 240,65 
+               C 280,45 320,50 345,75 
+               C 350,80 346,88 340,90 
+               C 335,88 335,82 330,80 
+               C 320,75 310,78 305,85 
+               C 300,92 308,98 312,105 
+               C 318,115 322,125 325,135 
+               C 328,145 322,155 318,162 
+               C 312,172 308,185 305,200 
+               C 298,215 288,230 268,242 
+               C 272,225 280,210 285,192 
+               C 290,178 290,165 282,150 
+               C 278,142 272,138 275,130 
+               C 278,122 285,120 282,110 
+               C 278,100 265,95 250,98 
+               C 200,110 150,145 95,152 
+               C 130,148 175,135 220,115 
+               C 170,130 120,142 88,122 Z" 
+            fill="#e5005a"/>
+    </g>
+
+    <!-- Text: silkhair -->
+    <!-- Customized stylized vector text paths matching the original font -->
+    <g transform="translate(160, 440)">
+      <text x="0" y="0" class="brand-main">silkhair</text>
+    </g>
+
+    <!-- Text: PROFESSIONAL -->
+    <g transform="translate(205, 500)">
+      <text x="0" y="0" class="brand-sub">PROFESSIONAL</text>
+    </g>
+  </g>
+</svg>
